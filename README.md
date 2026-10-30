@@ -1,4 +1,6 @@
 Play the game here - https://devedant.itch.io/speck
+
+
 SPECK
 You are the smallest mage in your class. At the bottom of the rankings list. You know, the kind of person everyone knows would not stand a chance against another in a proper showdown.
 
